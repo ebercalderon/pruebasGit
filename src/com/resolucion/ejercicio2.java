@@ -28,7 +28,7 @@ public class ejercicio2 {
                 //Llamar a la función de cálculo
                 int suma = calcularLote(numbers);
 
-                //Se escribe la respuesta en el archivo de salida con un salto de linea para separar la respuesta de cada linea
+                //Se escribe la respuesta en el archivo de salida con un salto de linea para separar la respuesta de cada linea.
                 fw.write(suma + "\n");
             }
             //Cerramos el archivo
